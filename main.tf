@@ -3,7 +3,7 @@ terraform {
     organization = "jgshin-org"
 
     workspaces {
-      name = "terraform-edu-part1-assessment"
+      name = "terraform-edu-part1-test"
     }
   }
   required_providers {
